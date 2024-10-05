@@ -58,7 +58,7 @@ so let's organzie the gadgets :
 ```
 a bit more complicated but we are able to call srop ... 
 
-the randomiztion is also a bit tricky -> on x64 is pretty touch to guess it right -> we have 18bit random factor .
+the randomiztion is also a bit tricky -> on x64 is pretty rough to guess it right -> we have 18bit random factor .
 
 [CVE](https://bugzilla.kernel.org/show_bug.cgi?id=89591)
 
