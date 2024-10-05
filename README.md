@@ -35,6 +35,7 @@ is it that simple ?
 
 
 # 64bit?
+it might be super super diffcult and mayb not pissbole -> on my machine is fairly easy: 
 ## Gadgets 
 ```
 0x0000000000000ad7: pop rbx; pop r12; pop rbp; ret;
