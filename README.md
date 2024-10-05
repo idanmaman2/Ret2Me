@@ -58,6 +58,13 @@ so let's organzie the gadgets :
 ```
 a bit more complicated but we are able to call srop ... 
 
+the randomiztion is also a bit tricky -> on x64 is pretty touch to guess it right -> we have 18bit random factor .
+
+[CVE](https://bugzilla.kernel.org/show_bug.cgi?id=89591)
+
+so it is a bit hard but possible .
+
+
 ## SROP : 
 with srop we can control everything and we can find the syscall opcode in the vdso memory in any bitness(syscall/int 0x80)
 so we can call it and win! just like kings! 
