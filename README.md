@@ -55,3 +55,8 @@ so let's organzie the gadgets :
 [4] 0x0000000000000c7b: syscall; ret;
 // call to srop ...
 ```
+a bit more complicated but we are able to call srop ... 
+
+## SROP : 
+with srop we can control everything and we can find the syscall opcode in the vdso memory in any bitness(syscall/int 0x80)
+so we can call it and win! just like kings! 
