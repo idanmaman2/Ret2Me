@@ -37,12 +37,21 @@ is it that simple ?
 # 64bit?
 ## Gadgets 
 ```
-rbp,rbx,r12
 0x0000000000000ad7: pop rbx; pop r12; pop rbp; ret;
 0x0000000000000c7f: xor eax, eax; ret;
 0x0000000000000d12: leave; ret;
+0x00000000000006fe: mov eax, 0xffffffff; ret;
 0x000000000000086f: pop rsi; pop r15; pop rbp; ret;
 0x000000000000086a: pop r12; pop r13; pop r14; pop r15; pop rbp; ret;
 0x000000000000073b: add rax, rsi; ret;
 0x0000000000000c7b: syscall; ret;
+```
+
+so let's organzie the gadgets : 
+```
+[1] 0x000000000000086f: pop rsi; pop r15; pop rbp; ret;
+[2] 0x00000000000006fe: mov eax, 0xffffffff; ret;
+[3] 0x000000000000073b: add rax, rsi; ret; // we have in rax 0x0f
+[4] 0x0000000000000c7b: syscall; ret;
+// call to srop ...
 ```
