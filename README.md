@@ -65,6 +65,9 @@ the randomiztion is also a bit tricky -> on x64 is pretty rough to guess it righ
 [CVE](https://bugzilla.kernel.org/show_bug.cgi?id=89591)
 
 so it is a bit hard but possible .
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/9d8728dd-e922-4eef-bf9c-ce51600f59e4">
+- you should try this method only and only as your last chance -> it is bruteforcing 18bits (2 ** 18 => 2** 10 * 256 ~ 256,000 tries , super hard).
+
 
 
 ## SROP : 
