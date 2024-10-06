@@ -32,6 +32,8 @@ is it that simple ?
 <img width="730" alt="image" src="https://github.com/user-attachments/assets/0ac6b3d2-f6ba-419e-9fd9-c70d4fb08ce2">
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/1f654989-d2f1-41bd-a9aa-ff96ccd1da97">
 
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/ac3163be-0d48-462c-b16c-2c881754eee6">
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/a308ba08-961b-4240-af20-a66369d56bf3">
 
 
 # 64bit?
