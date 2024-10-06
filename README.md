@@ -23,6 +23,7 @@ will be the debugger of the voulntly debugge(the privlleged process) we have sta
 and then we will jump again to the address of the int 0x80 we already found in the rt_sigreturn-trampoline gadget we found 
 
 some images 
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/4ddf537f-ec22-464a-8fe0-70e43afcf375">
 <img width="1151" alt="image" src="https://github.com/user-attachments/assets/d1389cf3-08a5-4aa2-b285-38f94cc0f75f">
 <img width="1460" alt="image" src="https://github.com/user-attachments/assets/b1599776-375b-48cf-af93-db550e0b7bd9">
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/07c4aec6-f418-44ec-bdd4-71387264a933">
