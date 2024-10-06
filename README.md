@@ -34,7 +34,6 @@ is it that simple ?
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/1f654989-d2f1-41bd-a9aa-ff96ccd1da97">
 <img width="928" alt="image" src="https://github.com/user-attachments/assets/4ca27e6b-2b4c-4c29-80d1-96f2f775fb03">
 <img width="637" alt="image" src="https://github.com/user-attachments/assets/ac3163be-0d48-462c-b16c-2c881754eee6">
-<img width="928" alt="image" src="https://github.com/user-attachments/assets/a308ba08-961b-4240-af20-a66369d56bf3">
 
 
 # 64bit?
